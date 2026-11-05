@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## Welcome to my GitHub page!
+[!HEADER](/images/github-header-banner.png)
 
 <!--
 **Gaby-cyber102/Gaby-cyber102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
